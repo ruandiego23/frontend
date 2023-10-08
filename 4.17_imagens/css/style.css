@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+}
+
+body {
+  color: #3d3c3c;
+  font-size: 26px;
+  font-family: 'Ubuntu', serif;
+}
+
+h1, h2, h3, h4 {
+  padding: 0;
+  margin: 0;
+  font-family: 'MuseoModerno', serif;
+}
+
+div h1 em:hover{
+  color: greenyellow;
+}
+
+.topo {
+  background-color: #e56a00;
+  /* opcao 1 para utilizar imagem
+  background-image: url(../img/cool-background.png) ;
+  background-position: center;
+  background-size: cover; */
+  /* opcao 2 para utilizar a mesma imagem
+  background: center / cover no-repeat url(../img/cool-background.png); */
+  padding: 60px;
+  font-size: 32px;
+  text-align: center;
+  position: relative;
+  height: 540px;
+}
+
+div span em:hover {
+  color: blue;
+}
+
+.margem-sup {
+  margin-top: 21px;
+}
+
+.texto {
+  text-align: justify;
+  line-height: 42px;
+}
+
+.cabecalho {
+  padding-top: 40px;
+  font-family: 'MuseoModerno', serif;
+}
+
+.container {
+  margin: 40px 80px 80px 80px;
+}
+
+.topo img {
+  width: 120px;
+}
+
+figure img {
+  width: 400px;
+}
+
+.instagram-amaro:hover {
+  position: relative;
+  -webkit-filter: contrast(90%) brightness(110%) saturate(150%) hue-rotate(-10deg);
+  filter: contrast(90%) brightness(110%) saturate(150%) hue-rotate(-10deg);
+}
+
+
+.custom-shape-divider-bottom-1643760946 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1643760946 svg {
+  position: relative;
+  display: block;
+  width: calc(144% + 1.3px);
+  height: 198px;
+}
+
+.custom-shape-divider-bottom-1643760946 .shape-fill {
+  fill: #FFFFFF;
+}
+
+.footer {
+  position: relative;
+  height: 340px;
+  background-color: #e56a00;
+}
+
+.footer p {
+  color: #7a3a03;
+  position: absolute;
+  bottom: 4px;
+}
+
+.custom-shape-divider-top-1643761415 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1643761415 svg {
+  position: relative;
+  display: block;
+  width: calc(198% + 1.3px);
+  height: 189px;
+}
+
+.custom-shape-divider-top-1643761415 .shape-fill {
+  fill: #FFFFFF;
+}

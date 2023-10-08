@@ -1,0 +1,30 @@
+
+body {
+    font-family: Courier, Serif, serif;
+    color: white;
+}
+
+.color1 {
+    background-color: darkgray;
+}
+
+.caixa {
+    display: inline-block;
+    width: 62px;
+    text-align: center;
+    line-height: 62px;
+}
+
+.container {
+    background-color: white;
+    width: 1080px;
+    margin: 5% 50% 1% 50%;
+    transform: translate(-18%, -50%);
+}
+
+.container2 {
+    background-color: white;
+    width: 1080px;
+    margin: 12px 50% 1% 50%;
+    transform: translate(-18%, -50%);
+}

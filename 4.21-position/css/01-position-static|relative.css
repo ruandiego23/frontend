@@ -1,0 +1,56 @@
+/*
+relativet permite mudar a posição enquanto o static não permite
+*/
+
+.cor1 {
+    background-color: blueviolet;
+}
+
+.cor2 {
+    background-color: rgb(96, 37, 151);
+}
+
+.cor3 {
+    background-color: rgb(81, 31, 128);
+}
+
+.cor4 {
+    background-color: rgb(33, 218, 16);
+}
+
+.cor5 {
+    background-color: rgb(23, 151, 12);
+}
+
+.cor6 {
+    background-color: rgb(20, 94, 13);
+}
+
+.center {
+    text-align: center;
+}
+
+.texto-claro {
+    color: antiquewhite;
+}
+
+.cabecalho1 {
+    position: relative;
+}
+
+.caixa1 {
+    width: 140px;
+    height: 140px;
+    line-height: 120px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    z-index: -1;
+}
+
+.caixa2 {
+    width: 140px;
+    height: 140px;
+    line-height: 120px;
+    position: static;
+}

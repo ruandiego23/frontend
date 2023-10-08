@@ -1,0 +1,29 @@
+
+@media screen and (max-width: 580px) {
+    * {
+        font-size: 1.1em;
+        font-weight: bold;
+    }
+}
+
+.center {
+    text-align: center;
+}
+
+.esquerda {
+    background-color: red;
+    display: inline-block;
+    width: 33%;
+}
+
+.centro {
+    background-color: green;
+    display: inline-block;
+    width: 33%;
+}
+
+.direita {
+    background-color: blue;
+    display: inline-block;
+    width: 32.6%;
+}

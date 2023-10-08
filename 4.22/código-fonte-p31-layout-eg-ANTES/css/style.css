@@ -1,0 +1,23 @@
+.texto {
+  width: 560px;
+  display: inline-block;
+}
+
+.imagem {
+  display: inline-block;
+}
+
+img {
+  width: 480px;
+  display: inline-block;
+}
+
+.texto h1 {
+  font-size: 3.2rem;
+  padding: 30px 0;
+}
+
+.texto-fonte {
+  font-size: 1.6rem;
+  line-height: 2.8rem;
+}

@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+}
+
+.container {
+  padding: 60px;
+  text-align: center;
+  background-color: #F9F7F3;
+}
+
+.header1 {
+  font-size: 3rem;
+}
+
+.header2 {
+  font-size: 2rem;
+}
+
+.cor-nome {
+  color: blue;
+}
+
+.cor-rgb {
+  /*
+  Min....................Max
+  0                      255
+  color: rgb(red, green, blue);
+  */
+  color: rgb(205, 9, 9);
+}
+
+.cor-cerquilha {
+  /*
+  0123456789ABCDEF
+  Min            MAX
+
+  16
+  FF
+  cor azul: #0000FF
+
+  */
+  color: #15b3f1
+}
+
+.cor-verdeflat {
+  color: #44bd32;
+}

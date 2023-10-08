@@ -1,0 +1,38 @@
+/* Rainbow colors */
+
+.cor1 {
+    background-color: red;
+}
+
+.cor2 {
+    background-color: orange;
+}
+
+.cor3 {
+    background-color: yellow;
+}
+
+.cor4 {
+    background-color: green;
+}
+
+.cor5 {
+    background-color: blue;
+}
+
+.cor6 {
+    background-color: indigo;
+}
+
+.cor7 {
+    background-color: violet;
+}
+
+.div1 {
+    padding: 40px;
+    background-color: gray;
+}
+
+.center {
+    text-align: justify-all;
+}

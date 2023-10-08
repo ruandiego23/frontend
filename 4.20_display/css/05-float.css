@@ -1,0 +1,18 @@
+
+
+.avatar {
+    float: left;
+    margin-right: 30px;
+}
+
+p {
+    margin-bottom: 26px;
+}
+/*
+.clear: The cleat property takes 3 values: left, right or both. As you might have suspected,
+clear: left; simply clears any floats on the left side, clear: right; clears floats on the right side
+while clear: both; ensures that all floats elements are cleared
+
+.overflow:hidden: This method is great for ensuring the parent element does not collapse like in problem2.
+overflow:hidden; is set to tje parent element to combat the problem
+*/

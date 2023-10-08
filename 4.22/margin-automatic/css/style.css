@@ -1,0 +1,18 @@
+
+.conteudo {
+    background-color: darkgreen;
+    width: 1080px;
+    margin: auto;
+}
+
+.regiao1 {
+    display: inline-block;
+    background-color: darkblue;
+    width: 50%;
+}
+
+.regiao2 {
+    display: inline-block;
+    background-color: darkred;
+    width: 49.6%;
+}

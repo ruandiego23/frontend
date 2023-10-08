@@ -1,0 +1,46 @@
+* {
+ font-size: 14px;
+ font-family: Courier, serif;
+}
+
+.topo {
+  background-color: red;
+  /*  padding: 30px 60px 90px 120px. O primeiro em cima, 2 a direita, 3 embaixo e 4 a esquerda */
+  /*  padding: 30px 60px. O primeiro dá espaçamento nas partes de cima, e o segundo nas partes laterais */
+  padding: 30px;
+  text-align: center;
+}
+
+.cabecalho {
+  padding-top: 10px;
+}
+
+.container {
+  margin: 0 80px 0 80px;
+}
+
+
+body {
+  color: #333232;
+  margin: 0;
+}
+div.topo em:hover{
+    color: #ffffff;
+}
+
+div h4 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-top: 10px;
+}
+
+div p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+img {
+    width: 280px;
+}
+
